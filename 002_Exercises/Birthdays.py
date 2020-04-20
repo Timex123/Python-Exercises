@@ -66,7 +66,9 @@ c = Counter(Count)
 print(c)
 print(type(Count[0]))
 
-y = [2, 3, 4, 6, 8]
+y = []
+for item in c:
+  y.append(c[item])
 
 Months_Range = ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"]
 p = figure()
