@@ -1,0 +1,6 @@
+password
+haslo
+Passwort
+jedzenie
+Lebensmittel
+food
